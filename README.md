@@ -10,7 +10,7 @@ Ollama + ChromaDB による RAG チャット・セマンティック検索・自
 
 | タブ | 機能 |
 |------|------|
-| 📄 ドキュメント | PDF / DOCX / TXT / Markdown のアップロード・管理・インデックス |
+| 📄 ドキュメント | PDF / DOCX / TXT /　XLSX / Markdown のアップロード・管理・インデックス |
 | 💬 チャット | ドキュメントを参照しながら Ollama で Q&A（RAGストリーミング） |
 | 🔍 検索 | nomic-embed-text によるセマンティックベクトル検索 |
 | 📝 要約 | 箇条書き / 詳細 / エグゼクティブ の3スタイルで自動要約 |
@@ -32,7 +32,7 @@ Ollama + ChromaDB による RAG チャット・セマンティック検索・自
 **1. Ollama モデルを取得**（コマンドプロンプトで）
 
 ```
-ollama pull gemma3:4b
+ollama pull gemma3:4b(ここでは例とします)
 ollama pull nomic-embed-text
 ```
 
