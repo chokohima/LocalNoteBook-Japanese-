@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+*.pyo
+*.pyd
+
+# 仮想環境
+.venv/
+venv/
+env/
+.env
+
+# データディレクトリ（ノートブックデータは個人情報を含む可能性があるため除外）
+data/
+
+# Streamlit キャッシュ
+.streamlit/
+
+# アップロードされた一時ファイル
+uploads/
+tmp/
+
+# OS 生成ファイル
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# テスト・カバレッジ
+.pytest_cache/
+.coverage
+htmlcov/

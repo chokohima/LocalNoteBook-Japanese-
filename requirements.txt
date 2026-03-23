@@ -1,0 +1,16 @@
+# LocalNoteBook 依存ライブラリ
+
+# Web UI フレームワーク
+streamlit>=1.35.0
+
+# Ollama API クライアント
+requests>=2.31.0
+
+# ベクトルデータベース
+chromadb>=0.5.0
+
+# PDF 処理
+pymupdf>=1.24.0
+
+# Word ドキュメント処理
+python-docx>=1.1.0
