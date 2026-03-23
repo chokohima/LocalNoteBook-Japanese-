@@ -1,0 +1,2 @@
+# LocalNoteBook-Japanese-
+Windows環境下でOllamaとPythonを使って文書管理
