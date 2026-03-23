@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 chokohima
+Copyright (c) 2026 LocalNotebook Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+DISCLAIMER / 免責事項
+
+本ソフトウェアの使用は自己責任において行うものとします。
+作者および貢献者は、本ソフトウェアの使用によって生じたいかなる損害
+（データの損失、業務の中断、その他直接・間接的な損害を含む）についても
+一切の責任を負いません。
+
+本ソフトウェアは Ollama・ChromaDB 等のサードパーティソフトウェアと連携して
+動作しますが、それらの動作・品質・安全性についても保証しません。
+各ソフトウェアのライセンスおよび利用規約を個別にご確認ください。
+
+The use of this software is entirely at your own risk.
+The authors and contributors shall not be held liable for any damages
+arising from the use of this software, including but not limited to
+data loss, business interruption, or any other direct or indirect damages.
