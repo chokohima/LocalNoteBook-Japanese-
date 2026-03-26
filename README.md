@@ -81,3 +81,6 @@ set DATA_DIR=C:\Users\yourname\Documents\notebook_data
   https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 **ポート8765が使用中** → server.py 末尾と index.html 内の `8765` を別の番号に変更
+
+## 補足
+現在メモからの追加が機能しません。
